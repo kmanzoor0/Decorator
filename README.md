@@ -1,2 +1,2 @@
 # Decorator
-I have made decorator.
+I have made decorator with python .
